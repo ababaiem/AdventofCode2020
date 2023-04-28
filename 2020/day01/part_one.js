@@ -1,7 +1,7 @@
 
 const fs = require('fs');
 
-const content = fs.readFileSync('./input', 'utf8');
+const content = fs.readFileSync('./input.txt', 'utf8');
 
 contentArray = content.split('\n');
 
